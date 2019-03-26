@@ -124,6 +124,10 @@ img {
 	line-height: 32px;
 }
 
+#menu li {
+  padding: 0;
+  color:#77a466;
+}
 
 #reviews {
 	line-height: 26px;
